@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aiandsocialgood.github.io/17737s24/sitemap.xml
+Sitemap: https://aiandsocialgoodlab.github.io/17737s24/sitemap.xml
