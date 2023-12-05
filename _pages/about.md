@@ -31,7 +31,7 @@ social: false  # includes social icons for course related platforms
 * **Name**: Dr. Fei Fang
 * **Contact Info**: Email: [feifang@cmu.edu](mailto:feifang.cmu.edu)
 * **Office location**: Zoom or in-person (TCS 321)
-* **Office hours**: Tue 1:00pm-2:00pm; Secure one to two consecutive slots in advance via Calendly
+* **Office hours**: Time TBD; Secure one to two consecutive slots in advance via Calendly
 
 If the OH time does not work for you, you can make an appointment for a 30-minute session by emailing Linda Moreci ([laf20@cs.cmu.edu](mailto: laf20@cs.cmu.edu)) at least 24 hours in advance.
 
