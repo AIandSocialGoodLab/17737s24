@@ -40,18 +40,17 @@ The final course grade will be calculated using the following categories:
 <!-- * The assignments will be submitted through Canvas and will be peer-reviewed, but the final score will be provided by the instructor and the TA. -->
 * **Online homework.** The course will require all students to complete several online homework assignments individually. Each assignment will involve checking the understanding of basic concepts and working through the algorithms presented in class on example problems. Most questions are multiple-choice questions or numerical answer questions but the students need to submit explanations separately.
 * **Course project.**
-
   * **17-537**
-    * Kaggle Competitions
-      * Students will participate in *one* of the Kaggle competitions, which involve real-world data and require practical application of ML techniques. The competitions for this course are:
-        * TBD
-      * Evaluation
-    * Blog
-      * Students will write a blog post on a topic related to AI for Social Good. The blog post should be written in a way that is accessible to a general audience.
-      * Evaluation
+    * Students will have the flexibility to choose between two options for the course project:
+      * Kaggle Competition
+        * Students will participate in *one* of the Kaggle competitions, which involve real-world data and require practical application of ML techniques.
+      * Writing a blog on AI for Social Good
+        * Students will write a blog post on a topic related to AI for Social Good. The blog post should be written in a way that is accessible to a general audience.
 
   * **17-737**
-    * The students will work in small groups (1-3 students in each group) on a project exploring the possibility of using AI to help address a social good problem. The students are expected to focus on one or more societal challenges, propose models and AI-based solutions to tackle the challenges and evaluate the solutions. The students are required to submit a project report through Canvas, deliver an oral presentation in class, and provide a short video introducing the project. The progress of projects will be checked through the Project Proposal, Project Progress Report, Oral Presentation, and Final Project Report. The proposal and progress report will be peer-reviewed. The presentation and the final report will be evaluated by the instructor and TA directly.
+    * Students will work in small groups (1-3 students in each group) on a project exploring the possibility of using AI to help address a social good problem. The students are expected to focus on one or more societal challenges, propose models and AI-based solutions to tackle the challenges and evaluate the solutions.
+  
+  * Students are required to submit a project report through Canvas, and deliver an oral presentation in class. The progress of projects will be checked through the Project Proposal, Project Progress Report, Oral Presentation, and Final Project Report. The proposal and progress report will be peer-reviewed. The presentation and the final report will be evaluated by the instructor and TA directly.
 
 
 * **Grades.** Students will be assigned final letter grades according to the following table.

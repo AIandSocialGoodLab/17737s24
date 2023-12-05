@@ -22,7 +22,7 @@ social: false  # includes social icons for course related platforms
 ## Basic Information
 
 * **Course Name**: Artificial Intelligence Methods for Social Good
-* **Lectures**: Tue/Thu 9:30 am – 10:50 am, Location TBD
+* **Lectures**: Tue/Thu 9:30 am – 10:50 am, Hamerschlag Hall B103
 * **Semester**: Spring, **Year**: 2024
 * **Units**: 9/12, **Section(s)**: 17-537/17-737
 
