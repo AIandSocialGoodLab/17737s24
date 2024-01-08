@@ -22,7 +22,7 @@ social: false  # includes social icons for course related platforms
 ## Basic Information
 
 * **Course Name**: Artificial Intelligence Methods for Social Good
-* **Lectures**: Tue/Thu 9:30 am – 10:50 am, **SH 236**
+* **Lectures**: Tue/Thu 9:30 am – 10:50 am, **Scaife Hall 236** (Please check this [Campus Map](https://www.cmu.edu/assets/pdfs/campus-map-2019-8.5x11.pdf). It is on CMU campus.)
 * **Semester**: Spring, **Year**: 2024
 * **Units**: 9/12, **Section(s)**: 17-537/17-737
 
