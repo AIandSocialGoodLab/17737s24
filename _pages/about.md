@@ -2,7 +2,7 @@
 layout: about
 title: Course Overview
 permalink: /
-subtitle: 17-537 &middot; 17-737 &middot; Spring 2024 &middot; <a href=logistics>Logistics</a>
+subtitle: 17-537 &middot; 17-737 &middot; Spring 2024 &middot; <a href=logistics>Logistics</a> <a href=schedule>Course schedule</a>
 
 # profile:
 #   align: right
