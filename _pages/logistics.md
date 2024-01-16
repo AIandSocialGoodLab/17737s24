@@ -61,37 +61,37 @@ The final course grade will be calculated using the following categories:
           * Content: The blog post must present a self-contained, cogent, and engaging narrative on this line of research, including a blend of scientific (high - level) and technical exposition.
           * Figures/gifs/tables/videos that add to the exposition and enhance understanding are needed
           * Bibliography optional but inline references to attributions made in the text should be given
-        * **Grading Criteria**
-          * The blog post will be graded based on the following aspects:
-            * Scientific exposition w.r.t target audience
-              * Why is this societal problem important?
-              * What's the main challenge?
-              * How does it fit into the broader context of AI for Social Good?
-              * What's the main high-level idea of the AI method?
-            * Technical exposition w.r.t target audience
-              * What are the specific AI techniques used?
-              * How does the AI method help address the societal challenge?
-              * What are the obstacles and challenges in applying the AI method?
-            * Overall structure and organization
-              * Clarity of the problem statement
-              * Clarity of the AI method
-              * Overall flow
-            * Writing quality, e.g., grammar, spelling, etc.
-          * Example blog posts:
-            * [Using Machine Learning to “Nowcast” Precipitation in High Resolution](https://blog.research.google/2020/01/using-machine-learning-to-nowcast.html)
-            * [AMIE: A research AI system for diagnostic medical reasoning and conversations](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)
-            * [Every tree counts - Large-scale mapping of canopy height at the resolution of individual trees](https://research.facebook.com/blog/2023/4/every-tree-counts-large-scale-mapping-of-canopy-height-at-the-resolution-of-individual-trees/)
-            * [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
-            * [Evaluating social and ethical risks from generative AI](https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/)
-            * [Developing reliable AI tools for healthcare](https://deepmind.google/discover/blog/codoc-developing-reliable-ai-tools-for-healthcare/)
-          * Note: criteria are subject to change, and are inspired by the CSD blog post committee criteria.
         * Submission format: markdown or pdf; to submit the blog post, you can either upload to canvas, or submit a pull request to the [course website repo](https://github.com/AIandSocialGoodLab/17737s24) (instruction coming up later).
     * Students are expected to work **individually** on these projects.
 
   * **17-737**
     * Students will work in small groups (1-3 students in each group) on a project exploring the possibility of using AI to help address a social good problem. The students are expected to focus on one or more societal challenges, propose models and AI-based solutions to tackle the challenges and evaluate the solutions.
-  
-  * Students are required to submit a project report through Canvas, and deliver an oral presentation in class. The progress of projects will be checked through the Project Proposal, Project Progress Report, Oral Presentation, and Final Project Report. The proposal and progress report will be peer-reviewed. The presentation and the final report will be evaluated by the instructor and TA directly.
+  * **Grading Criteria**
+    * For **17-537 Kaggle Competition and 17-737**: students are required to submit a project report through Canvas, and deliver an oral presentation in class. The progress of projects will be checked through the Project Proposal, Project Progress Report, Oral Presentation, and Final Project Report. The proposal and progress report will be peer-reviewed. The presentation and the final report will be evaluated by the instructor and TA directly.
+    * For **17-537 Blog Post**:
+      * The blog post will be graded based on the following aspects:
+        * Scientific exposition w.r.t target audience
+          * Why is this societal problem important?
+          * What's the main challenge?
+          * How does it fit into the broader context of AI for Social Good?
+          * What's the main high-level idea of the AI method?
+        * Technical exposition w.r.t target audience
+          * What are the specific AI techniques used?
+          * How does the AI method help address the societal challenge?
+          * What are the obstacles and challenges in applying the AI method?
+        * Overall structure and organization
+          * Clarity of the problem statement
+          * Clarity of the AI method
+          * Overall flow
+        * Writing quality, e.g., grammar, spelling, etc.
+      * Example blog posts:
+        * [Using Machine Learning to “Nowcast” Precipitation in High Resolution](https://blog.research.google/2020/01/using-machine-learning-to-nowcast.html)
+        * [AMIE: A research AI system for diagnostic medical reasoning and conversations](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)
+        * [Every tree counts - Large-scale mapping of canopy height at the resolution of individual trees](https://research.facebook.com/blog/2023/4/every-tree-counts-large-scale-mapping-of-canopy-height-at-the-resolution-of-individual-trees/)
+        * [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
+        * [Evaluating social and ethical risks from generative AI](https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/)
+        * [Developing reliable AI tools for healthcare](https://deepmind.google/discover/blog/codoc-developing-reliable-ai-tools-for-healthcare/)
+      * Note: criteria are subject to change, and are inspired by the CSD blog post committee criteria.
 
 
 * **Grades.** Students will be assigned final letter grades according to the following table.
