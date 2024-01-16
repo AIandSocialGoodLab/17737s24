@@ -23,9 +23,15 @@ nav_order: 1
         <td><span style="white-space: pre-wrap;">{{ lecture.topic }}</span></td>
         <td>
           {% for slide in lecture.slides %}
-            <a href="{{ slide.url }}">{{ slide.title }}</a>
+                      
+            {% if slide.url contains "https" %}
+                <a href="{{ slide.url }}">{{ slide.title }}</a>
+            {% else %}
+                <a href="../assets/slides/{{ slide.url }}">{{ slide.title }}</a>
+            {% endif %}
+            
             {% if slide.same_line %}
-                    <!-- Nothing here, continue on the same line -->
+                <!-- Nothing here, continue on the same line -->
             {% else %}
                 <br>
             {% endif %}

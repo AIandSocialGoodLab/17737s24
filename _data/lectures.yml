@@ -4,6 +4,10 @@
   slides:
     - url: https://arxiv.org/pdf/2001.01818.pdf
       title: "Artificial Intelligence for Social Good: A Survey"
+    - url: 20240116_Lec1_Overview.pdf
+      title: "Overview (pdf)"
+    - url: 20240116_Lec1_BasicsofOptimization.pdf
+      title: "Basics of Optimization (pdf)"
 - number: 2	& 3
   date: 1/18 & 1/23
   topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"

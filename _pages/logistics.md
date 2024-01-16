@@ -50,7 +50,7 @@ The final course grade will be calculated using the following categories:
   * **17-537**
     * Students will have the flexibility to choose between two options for the course project:
       * **Kaggle Competition**
-        * Students will participate in *one* of the Kaggle competitions, which involve real-world data and require practical application of ML techniques.
+        * Students will participate in *one* of the following Kaggle competitions (*or a different one with the approval of the instructor*), which involve real-world data and require practical application of ML techniques.
         * Competitions (Subject to change)
           * [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
           * [Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand/overview)
@@ -68,6 +68,7 @@ The final course grade will be calculated using the following categories:
     * Students will work in small groups (1-3 students in each group) on a project exploring the possibility of using AI to help address a social good problem. The students are expected to focus on one or more societal challenges, propose models and AI-based solutions to tackle the challenges and evaluate the solutions.
   * **Grading Criteria**
     * For **17-537 Kaggle Competition and 17-737**: students are required to submit a project report through Canvas, and deliver an oral presentation in class. The progress of projects will be checked through the Project Proposal, Project Progress Report, Oral Presentation, and Final Project Report. The proposal and progress report will be peer-reviewed. The presentation and the final report will be evaluated by the instructor and TA directly.
+      * For 17-537 The grading scheme is similar to the 12-unit session, except that we have a lower expectation on all criteria (e.g., novelty)
     * For **17-537 Blog Post**:
       * The blog post will be graded based on the following aspects:
         * Scientific exposition w.r.t target audience
