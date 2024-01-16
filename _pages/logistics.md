@@ -58,7 +58,7 @@ The final course grade will be calculated using the following categories:
       * **Writing a blog on AI for Social Good**
         * Students will write a blog post on a topic related to AI for Social Good. The blog post should be written in a way that is accessible to a general audience. The final version of the blog post will be published on the course website as a separate webpage.
           * Target audience: The post should be written at a level so that any senior undergraduate student majoring in computer science can have a good understanding of the overall societal challenge, the problem statement, the AI method, how the AI method helps address the societal challenge, the evaluation, and the impact. In addition, a big portion of the post (at least 50%) should be easily understandable by the general public.
-          * Content: The blog post must present a self-contained, cogent, and engaging narrative on this line of research, including a blend of scientific (high - level) and technical exposition.
+          * Content: The blog post must present a self-contained, cogent, and engaging narrative on this line of research, including a blend of scientific (high-level) and technical exposition.
           * Figures/gifs/tables/videos that add to the exposition and enhance understanding are needed
           * Bibliography optional but inline references to attributions made in the text should be given
         * Submission format: markdown or pdf; to submit the blog post, you can either upload to canvas, or submit a pull request to the [course website repo](https://github.com/AIandSocialGoodLab/17737s24) (instruction coming up later).
