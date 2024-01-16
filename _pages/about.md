@@ -2,7 +2,7 @@
 layout: about
 title: Course Overview
 permalink: /
-subtitle: 17-537 &middot; 17-737 &middot; Spring 2024 &middot; <a href=logistics>Logistics</a> &middot; <a href=schedule>Course schedule</a>
+subtitle: 17-537 &middot; 17-737 &middot; Spring 2024 &middot; <a href=logistics>Logistics</a> &middot; <a href=schedule>Course schedule</a> &middot; <a href="https://piazza.com/cmu/spring2024/17737/homeLinks to an external site">Piazza</a> &middot; <a href="https://canvas.cmu.edu/courses/38345">Canvas</a>
 
 # profile:
 #   align: right
@@ -46,10 +46,9 @@ Note: Links to the Zoom meeting and Calendly are available on Canvas.
 
 ## Course Description
 The rapid advance of artificial intelligence (AI) has opened up new possibilities of using AI to tackle the most challenging societal problems today. This course brings together a set of advanced AI methods that allow us to address such challenges and promote social good. We will cover a wide range of AI methods, including:
-
-Search, Planning, and Optimization: planning and scheduling, convex optimization, mathematical programming;
-Multiagent Systems: computational game theory, mechanism design, human behavior modeling;
-Machine Learning: classification and regression, clustering, probabilistic graphical models, deep learning, reinforcement learning.
+* Search, Planning, and Optimization: planning and scheduling, convex optimization, mathematical programming
+* Multiagent Systems: computational game theory, mechanism design, human behavior modeling
+* Machine Learning: classification and regression, clustering, probabilistic graphical models, deep learning, reinforcement learning
 In addition to providing a deep understanding of these methods, the course will introduce which societal challenges they can tackle and how through a series of case studies, in various domains including public health, food and agriculture, security, environmental sustainability, etc. The course will also cover special topics such as the ethics of AI, common challenges in AI for Social Good problems, how to measure the impact of AI for Social Good projects, etc.
 
 The course content is designed to not have too much overlap with other AI courses offered at CMU. Although the course is listed within SCS, it should be of interest to students in several other departments, including ECE, EPP, and SDS. The students will work in groups on a project exploring the possibility of using AI to help address a societal problem, with a project report and oral presentation delivered at the end of the semester.
