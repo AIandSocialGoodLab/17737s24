@@ -1,0 +1,202 @@
+- number: 1	
+  date: 1/16	
+  topic: Introduction, Overview of AI for Social Good, Basics of Optimization
+  slides:
+    - url: https://arxiv.org/pdf/2001.01818.pdf
+      title: "Artificial Intelligence for Social Good: A Survey"
+- number: 2	& 3
+  date: 1/18 & 1/23
+  topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"
+  slides:
+  - url: http://web.mit.edu/15.053/www/AMP.htm
+    title: "Applied Mathematical Programming"
+  - url: http://www.cs.cornell.edu/gomes/papers/CPAIOR2010-dilkina-gomes.pdf
+    title: "Solving Connected Subgraph Problems in Wildlife Conservation"
+  - url: http://onlinelibrary.wiley.com/doi/10.1111/cobi.12814/epdf
+    title: "Trade-offs and efficiencies in optimal budget-constrained multispecies corridor networks"
+  - url: https://www.cs.cornell.edu/~yexiang/publications/aaai13_robust_network_design.pdf
+    title: "Robust Network Design for Multispecies Conservation"
+- number: 3
+  date: 1/23
+  topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"
+  note: Confirm group members, HW0 due
+- number: 4
+  date: 1/25
+  topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue"
+  slides:
+      - url: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+        title: "Pattern Recognition and Machine Learning"
+      - url: https://ojs.aaai.org//index.php/AAAI/article/view/7051
+        title: "Improving Efficiency of Volunteer-Based Food Rescue Operations"
+      - url: https://canvas.cmu.edu/courses/33817/files/9090139?wrap=1
+        title: "A Recommender System for Crowdsourcing Food Rescue Platforms"
+  note: PRA1 due
+- number: 5
+  date: 1/30
+  topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue"
+  note: Project proposal due
+- number: 6
+  date: 2/1 & 2/6
+  topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
+  note: HW1 due
+- number: 7
+  date: 2/6
+  topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
+- number: 8
+  date: 2/8
+  topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation"
+  slides:
+    - url: https://arxiv.org/abs/1706.03762
+      title: "Attention Is All You Need"
+    - url: https://arxiv.org/abs/1810.04805
+      title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    - url: https://ryanzshi.github.io/papers/2023_IAAI_NewsPanda.pdf
+      title: "NewsPanda: Media Monitoring for Timely Conservation Action"
+  note: PRA2 due
+- number: 9
+  date: 2/13
+  topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation"
+- number: 10
+  date:	2/15
+  topic: "Guest Lecture by Hong Shen: Ethics of AI"
+  note: HW2 due
+- number: 11
+  date:	2/20
+  topic: Common Challenges in AI for Social Good Projects, Discussion Session
+  slides:
+    - url: https://arxiv.org/ftp/arxiv/papers/2001/2001.00088.pdf
+      title: "AI for Social Impact: Learning and Planning in the Data-to-Deployment Pipeline"
+    - url: https://ai4sibook.org/
+      title: "AI for Social Impact Book"
+- number: 12
+  date:	2/22
+  topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health"
+  slides:
+    - url: http://people.csail.mit.edu/lpk/papers/aij98-pomdp.pdf
+      title: Planning and acting in partially observable stochastic domains
+    - url: https://papers.nips.cc/paper/4031-monte-carlo-planning-in-large-pomdps.pdf
+      title: Monte-Carlo Planning in Large POMDPs
+    - url: http://ggp.stanford.edu/readings/uct.pdf
+      title: Bandit-Based Monte-Carlo Planning
+    - url: https://ai4sibook.org/field-study-in-deploying-restless-multi-armed-banditsassisting-non-profits-in-improving-maternal-child-healthaditya-mate-and-apart-taneja/
+      title: "Field Study in Deploying Restless Multi-Armed Bandits: Assisting Non-Profits in Improving Maternal & Child Health"
+  note: PRA3 due
+- number: 13
+  date:	2/27
+  topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health"
+  note: Project Progress Report I due
+- number: 14
+  date:	2/29
+  topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning"
+  slides:
+    - url: http://incompleteideas.net/book/bookdraft2017nov5.pdf
+      title: "Reinforcement Learning: An Introduction, Ch. 3, 6, 13"
+    - url: https://dl.acm.org/doi/10.1145/3219819.3220110
+      title: "Dynamic Bike Reposition: A Spatio-Temporal Reinforcement Learning Approach"
+    - url: https://arxiv.org/abs/1910.02591
+      title: "Multi-Agent Reinforcement Learning for Order-dispatching via Order-Vehicle Distribution Matching"
+  note: HW3 due
+- number: 15
+  date:	3/12
+  topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning"
+- number: 16
+  date:	3/14
+  topic: "Case Study: AI for HIV Prevention Among Homeless Youth"
+  slides:
+    - url: https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf
+      title: "Maximizing the spread of influence through a social network"
+    - url: https://arxiv.org/pdf/0912.0322.pdf
+      title: "Submodular Functions: Extensions, Distributions, and Algorithms. A Survey"
+    - url: http://www.morganclaypool.com/doi/pdf/10.2200/S00527ED1V01Y201308DTM037
+      title: "Information and Influence Propagation in Social Networks"
+    - url: https://teamcore.seas.harvard.edu/files/teamcore/files/aaai21_hiv.pdf
+      title: "Clinical Trial of an AI-Augmented Intervention for HIV Prevention in Youth Experiencing Homelessness"
+    - url: http://www.ifaamas.org/Proceedings/aamas2016/pdfs/p740.pdf
+      title: "Using Social Networks to Aid Homeless Shelters: Dynamic Influence Maximization under Uncertainty"
+    - url: http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p150.pdf
+      title: "Influence Maximization in the Field: The Arduous Journey From Emerging to Deployed Application"
+    - url: https://bryanwilder.github.io/files/wilder_aamas2017.pdf
+      title: "Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network"
+  note: PRA4 due
+- number: 17
+  date:	3/19
+  topic: "Guest Lecture by Zhiyu Chen: Natural Language Processing for Mental Health"
+- number: 18
+  date:	3/21
+  topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security"
+  slides:
+    - url: http://www.masfoundations.org/mas.pdf
+      title: "Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations, Ch. 3-5"
+    - url: https://teamcore.seas.harvard.edu/files/teamcore/files/2008_7_teamcore_amasind2008final.pdf
+      title: "Deployed ARMOR Protection: The Application of a Game Theoretic Model for Security at the Los Angeles International Airport"
+    - url: http://www.ifaamas.org/Proceedings/aamas2013/docs/p957.pdf
+      title: "Optimal Patrol Strategy for Protecting Moving Targets with Multiple Mobile Resources"
+  note: HW4 due
+- number: 19
+  date:	3/26
+  topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security"
+  note: Project Progress Report II due
+- number: 20
+  date:	3/28
+  topic: "Guest Lecture by Sephanie Milani: Explainable AI"
+  note: PRA5 due
+- number: 21
+  date:	4/2
+  topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime"
+  slides:
+    - url: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+      title: "Pattern Recognition and Machine Learning, Ch. 8, 9"
+    - url: http://teamcore.usc.edu/papers/2015/keep_pace_with_criminal.pdf
+      title: "Keeping pace with criminals: Designing patrol allocation against adaptive opportunistic criminals"
+    - url: http://ecmlpkdd2017.ijs.si/papers/paperID648.pdf
+      title: "Taking it for a Test Drive: A Hybrid Spatio-temporal Model for Wildlife Poaching Prediction Evaluated through a Controlled Field Test"
+    - url: http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p159.pdf
+      title: "Cloudy with a Chance of Poaching: Adversary Behavior Modeling and Forecasting with Real-World Poaching Data"
+    - url: http://teamcore.usc.edu/papers/2016/WildlifeProtection.pdf
+      title: "CAPTURE: A New Predictive Anti-Poaching Tool for Wildlife Protection"
+    - url: https://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/11814/12315
+      title: "Deploying PAWS: Field Optimization of the Protection Assistant for Wildlife Security"
+    - url: http://teamcore.usc.edu/papers/2011/ijcai11_paper148_cameraready.pdf
+      title: "Improving Resource Allocation Strategy Against Human Adversaries in Security Games"
+    - url: https://arxiv.org/pdf/1306.0918.pdf
+      title: "Predicting human behavior in unrepeated, simultaneous-move games"
+    - url: http://www.andrew.cmu.edu/user/feif/Publications/2015_AAMAS_RepeatedSSG.pdf
+      title: "“A Game of Thrones”: When Human Behavior Models Compete in Repeated Stackelberg Security Games"
+    - url: https://www.aaai.org/ocs/index.php/IAAI/IAAI14/paper/viewFile/8612/8667
+      title: "Robust protection of fisheries with COmPASS"
+  note: HW5 due
+- number: 22
+  date:	4/4
+  topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime"
+- number: 23
+  date:	4/9
+  topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
+- number: 24
+  date:	4/16
+  topic: "Case Study: AI for Kidney Exchange"
+  slides:
+    - url: https://dl.acm.org/doi/pdf/10.1145/1250910.1250954
+      title: "Clearing algorithms for barter exchange markets: Enabling nationwide kidney exchanges"
+    - url: http://www.jstor.org/stable/222825?seq=1#page_scan_tab_contents
+      title: "Branch-and-price: Column generation for solving huge integer programs"
+    - url: http://www.cs.cmu.edu/~sandholm/futurematch.aaai15.pdf
+      title: "FutureMatch: Combining Human Value Judgments and Machine Learning to Match in Dynamic Environments"
+      same_line: true
+    - url: http://www.cs.cmu.edu/~sandholm/futurematch.aaai15%20with%20appendix.pdf
+      title: "[Extended version]"
+    - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016_EC_CAMERA_READY.pdf
+      title: "Position-Indexed Formulations for Kidney Exchange"
+      same_line: true
+    - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016PlusExtraMaterial.pdf
+      title: "[Extended version]"
+  note: PRA6 due
+- number: 25
+  date:	4/18
+  topic: TBD
+  note: HW6 due
+- number: 26 & 27
+  date:	4/23 & 4/25
+  topic: Project Presentation
+- number: 28
+  date: 5/2
+  note: Project Report due

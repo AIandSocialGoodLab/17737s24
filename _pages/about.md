@@ -35,13 +35,14 @@ social: false  # includes social icons for course related platforms
 
 If the OH time does not work for you, you can make an appointment for a 30-minute session by emailing Linda Moreci ([laf20@cs.cmu.edu](mailto: laf20@cs.cmu.edu)) at least 24 hours in advance.
 
+Note: Links to the Zoom meeting and Calendly are available on Canvas.
+
 ## TA Information
 
 * **Name**: Zhicheng Zhang
 * **Contact Info**: Email: [zczhang@cmu.edu](mailto:zczhang@cmu.edu)
 * **Office location**: Zoom or in-person (TCS 463)
-* **Office hours**: TBD
-
+* **Office hours**: Mon/Thu 3:00 pm - 4:00 pm
 
 ## Course Description
 The rapid advance of artificial intelligence (AI) has opened up new possibilities of using AI to tackle the most challenging societal problems today. This course brings together a set of advanced AI methods that allow us to address such challenges and promote social good. We will cover a wide range of AI methods, including:
