@@ -176,7 +176,11 @@
   date:	4/9
   topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
 - number: 24
-  date:	4/16
+  date: 4/16
+  topic: Guest Lecture by Hoda Heidari
+  note: PRA6 due
+- number: 25
+  date:	4/18
   topic: "Case Study: AI for Kidney Exchange"
   slides:
     - url: https://dl.acm.org/doi/pdf/10.1145/1250910.1250954
@@ -193,10 +197,6 @@
       same_line: true
     - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016PlusExtraMaterial.pdf
       title: "[Extended version]"
-  note: PRA6 due
-- number: 25
-  date:	4/18
-  topic: TBD
   note: HW6 due
 - number: 26 & 27
   date:	4/23 & 4/25
