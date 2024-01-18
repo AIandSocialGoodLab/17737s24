@@ -29,7 +29,7 @@ nav_order: 1
             {% if slide.url contains "https" %}
                 <a href="{{ slide.url }}">{{ slide.title }}</a>
             {% else %}
-                <a href="../assets/slides/{{ slide.url }}">{{ slide.title }}</a>
+                <a href="../assets/slides/{{ slide.url }}">Slides: {{ slide.title }}</a>
             {% endif %}
             
             {% if slide.same_line %}
