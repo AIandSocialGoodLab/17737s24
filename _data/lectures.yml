@@ -20,6 +20,8 @@
     title: "Trade-offs and efficiencies in optimal budget-constrained multispecies corridor networks"
   - url: https://www.cs.cornell.edu/~yexiang/publications/aaai13_robust_network_design.pdf
     title: "Robust Network Design for Multispecies Conservation"
+  - url: 20240118_Lec2_BasicsofILP.pdf
+    title: "Basics of (Integer) Linear Programming (pdf)"
 - number: 3
   date: 1/23
   topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"
