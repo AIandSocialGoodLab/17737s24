@@ -17,7 +17,7 @@ nav_order: 1
   </thead>
   <tbody>
     <p style="color: red;">All deadlines are <strong style="color: red;">10:00 pm ET</strong> on the <strong style="color: red;">day indicated in the same row</strong>.</p>
-    Last updated: Jan 16, 2024
+    Last updated: Jan 18, 2024
     {% for lecture in site.data.lectures %}
       <tr>
         <th scope="row">{{ lecture.number }}</th>
