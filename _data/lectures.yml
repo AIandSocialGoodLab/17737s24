@@ -8,8 +8,8 @@
       title: "Overview (pdf)"
     - url: 20240116_Lec1_BasicsofOptimization.pdf
       title: "Basics of Optimization (pdf)"
-- number: 2	& 3
-  date: 1/18 & 1/23
+- number: 2
+  date: 1/18
   topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"
   slides:
   - url: http://web.mit.edu/15.053/www/AMP.htm
@@ -24,7 +24,7 @@
     title: "Basics of (Integer) Linear Programming (pdf)"
 - number: 3
   date: 1/23
-  topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"
+  topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design (cont.)"
   note: Confirm group members<br/>HW0 due (<strong>1/23 10:00pm</strong>)
 - number: 4
   date: 1/25
@@ -39,15 +39,15 @@
   note: PRA1 due
 - number: 5
   date: 1/30
-  topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue"
+  topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue (cont.)"
   note: Project proposal due
 - number: 6
-  date: 2/1 & 2/6
+  date: 2/1
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
   note: HW1 due
 - number: 7
   date: 2/6
-  topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
+  topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data (cont.)"
 - number: 8
   date: 2/8
   topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation"
@@ -61,7 +61,7 @@
   note: PRA2 due
 - number: 9
   date: 2/13
-  topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation"
+  topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation (cont.)"
 - number: 10
   date:	2/15
   topic: "Guest Lecture by Hong Shen: Ethics of AI"
@@ -89,7 +89,7 @@
   note: PRA3 due
 - number: 13
   date:	2/27
-  topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health"
+  topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health (cont.)"
   note: Project Progress Report I due
 - number: 14
   date:	2/29
@@ -104,7 +104,7 @@
   note: HW3 due
 - number: 15
   date:	3/12
-  topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning"
+  topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning (cont.)"
 - number: 16
   date:	3/14
   topic: "Case Study: AI for HIV Prevention Among Homeless Youth"
@@ -140,7 +140,7 @@
   note: HW4 due
 - number: 19
   date:	3/26
-  topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security"
+  topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security (cont.)"
   note: Project Progress Report II due
 - number: 20
   date:	3/28
@@ -173,7 +173,7 @@
   note: HW5 due
 - number: 22
   date:	4/4
-  topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime"
+  topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime (cont.)"
 - number: 23
   date:	4/9
   topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
@@ -200,9 +200,12 @@
     - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016PlusExtraMaterial.pdf
       title: "[Extended version]"
   note: HW6 due
-- number: 26 & 27
-  date:	4/23 & 4/25
+- number: 26
+  date:	4/23
   topic: Project Presentation
+- number: 27
+  date: 4/25
+  topic: Project Presentation (cont.)
 - number: 28
   date: 5/2
   note: Project Report due
