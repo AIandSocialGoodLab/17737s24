@@ -26,7 +26,7 @@ nav_order: 1
         <td>
           {% for slide in lecture.slides %}
                       
-            {% if slide.url contains "https" %}
+            {% if slide.url contains "http" %}
                 <a href="{{ slide.url }}">{{ slide.title }}</a>
             {% else %}
                 <a href="../assets/slides/{{ slide.url }}">Slides: {{ slide.title }}</a>
