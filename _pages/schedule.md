@@ -20,7 +20,7 @@ nav_order: 1
     Last updated: Jan 18, 2024
     {% for lecture in site.data.lectures %}
       <tr>
-        <th scope="row">{{ lecture.number }}</th>
+        <th scope="row">{{ forloop.index }}</th>
         <td>{{ lecture.date }}</td>
         <td><span style="white-space: pre-wrap;">{{ lecture.topic }}</span></td>
         <td>

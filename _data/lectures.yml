@@ -1,5 +1,4 @@
-- number: 1	
-  date: 1/16	
+- date: 1/16	
   topic: Introduction, Overview of AI for Social Good, Basics of Optimization
   slides:
     - url: https://arxiv.org/pdf/2001.01818.pdf
@@ -8,8 +7,7 @@
       title: "Overview (pdf)"
     - url: 20240116_Lec1_BasicsofOptimization.pdf
       title: "Basics of Optimization (pdf)"
-- number: 2
-  date: 1/18
+- date: 1/18
   topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"
   slides:
   - url: http://web.mit.edu/15.053/www/AMP.htm
@@ -22,12 +20,10 @@
     title: "Robust Network Design for Multispecies Conservation"
   - url: 20240118_Lec2_BasicsofILP.pdf
     title: "Basics of (Integer) Linear Programming (pdf)"
-- number: 3
-  date: 1/23
+- date: 1/23
   topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design (cont.)"
   note: Confirm group members<br/>HW0 due (<strong>1/23 10:00pm</strong>)
-- number: 4
-  date: 1/25
+- date: 1/25
   topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue"
   slides:
       - url: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
@@ -37,19 +33,15 @@
       - url: https://canvas.cmu.edu/courses/33817/files/9090139?wrap=1
         title: "A Recommender System for Crowdsourcing Food Rescue Platforms"
   note: PRA1 due
-- number: 5
-  date: 1/30
+- date: 1/30
   topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue (cont.)"
   note: Project proposal due
-- number: 6
-  date: 2/1
+- date: 2/1
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
   note: HW1 due
-- number: 7
-  date: 2/6
+- date: 2/6
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data (cont.)"
-- number: 8
-  date: 2/8
+- date: 2/8
   topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation"
   slides:
     - url: https://arxiv.org/abs/1706.03762
@@ -59,23 +51,12 @@
     - url: https://ryanzshi.github.io/papers/2023_IAAI_NewsPanda.pdf
       title: "NewsPanda: Media Monitoring for Timely Conservation Action"
   note: PRA2 due
-- number: 9
-  date: 2/13
+- date: 2/13
   topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation (cont.)"
-- number: 10
-  date:	2/15
+- date:	2/15
   topic: "Guest Lecture by Hong Shen: Ethics of AI"
   note: HW2 due
-- number: 11
-  date:	2/20
-  topic: Common Challenges in AI for Social Good Projects, Discussion Session
-  slides:
-    - url: https://arxiv.org/ftp/arxiv/papers/2001/2001.00088.pdf
-      title: "AI for Social Impact: Learning and Planning in the Data-to-Deployment Pipeline"
-    - url: https://ai4sibook.org/
-      title: "AI for Social Impact Book"
-- number: 12
-  date:	2/22
+- date:	2/20
   topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health"
   slides:
     - url: http://people.csail.mit.edu/lpk/papers/aij98-pomdp.pdf
@@ -86,13 +67,13 @@
       title: Bandit-Based Monte-Carlo Planning
     - url: https://ai4sibook.org/field-study-in-deploying-restless-multi-armed-banditsassisting-non-profits-in-improving-maternal-child-healthaditya-mate-and-apart-taneja/
       title: "Field Study in Deploying Restless Multi-Armed Bandits: Assisting Non-Profits in Improving Maternal & Child Health"
-  note: PRA3 due
-- number: 13
-  date:	2/27
+- date:	2/22
   topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health (cont.)"
+  note: PRA3 due
+- date:	2/27
+  topic: "Guest Lecture by Zhiyu Chen: Natural Language Processing for Mental Health"
   note: Project Progress Report I due
-- number: 14
-  date:	2/29
+- date:	2/29
   topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning"
   slides:
     - url: http://incompleteideas.net/book/bookdraft2017nov5.pdf
@@ -102,11 +83,9 @@
     - url: https://arxiv.org/abs/1910.02591
       title: "Multi-Agent Reinforcement Learning for Order-dispatching via Order-Vehicle Distribution Matching"
   note: HW3 due
-- number: 15
-  date:	3/12
+- date:	3/12
   topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning (cont.)"
-- number: 16
-  date:	3/14
+- date:	3/14
   topic: "Case Study: AI for HIV Prevention Among Homeless Youth"
   slides:
     - url: https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf
@@ -124,11 +103,14 @@
     - url: https://bryanwilder.github.io/files/wilder_aamas2017.pdf
       title: "Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network"
   note: PRA4 due
-- number: 17
-  date:	3/19
-  topic: "Guest Lecture by Zhiyu Chen: Natural Language Processing for Mental Health"
-- number: 18
-  date:	3/21
+- date:	3/19
+  topic: Common Challenges in AI for Social Good Projects, Discussion Session
+  slides:
+    - url: https://arxiv.org/ftp/arxiv/papers/2001/2001.00088.pdf
+      title: "AI for Social Impact: Learning and Planning in the Data-to-Deployment Pipeline"
+    - url: https://ai4sibook.org/
+      title: "AI for Social Impact Book"
+- date:	3/21
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security"
   slides:
     - url: http://www.masfoundations.org/mas.pdf
@@ -138,16 +120,13 @@
     - url: http://www.ifaamas.org/Proceedings/aamas2013/docs/p957.pdf
       title: "Optimal Patrol Strategy for Protecting Moving Targets with Multiple Mobile Resources"
   note: HW4 due
-- number: 19
-  date:	3/26
+- date:	3/26
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security (cont.)"
   note: Project Progress Report II due
-- number: 20
-  date:	3/28
+- date:	3/28
   topic: "Guest Lecture by Sephanie Milani: Explainable AI"
   note: PRA5 due
-- number: 21
-  date:	4/2
+- date:	4/2
   topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime"
   slides:
     - url: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
@@ -171,18 +150,14 @@
     - url: https://www.aaai.org/ocs/index.php/IAAI/IAAI14/paper/viewFile/8612/8667
       title: "Robust protection of fisheries with COmPASS"
   note: HW5 due
-- number: 22
-  date:	4/4
+- date:	4/4
   topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime (cont.)"
-- number: 23
-  date:	4/9
+- date:	4/9
   topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
-- number: 24
-  date: 4/16
+- date: 4/16
   topic: Guest Lecture by Hoda Heidari
   note: PRA6 due
-- number: 25
-  date:	4/18
+- date:	4/18
   topic: "Case Study: AI for Kidney Exchange"
   slides:
     - url: https://dl.acm.org/doi/pdf/10.1145/1250910.1250954
@@ -200,12 +175,9 @@
     - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016PlusExtraMaterial.pdf
       title: "[Extended version]"
   note: HW6 due
-- number: 26
-  date:	4/23
+- date:	4/23
   topic: Project Presentation
-- number: 27
-  date: 4/25
+- date: 4/25
   topic: Project Presentation (cont.)
-- number: 28
-  date: 5/2
+- date: 5/2
   note: Project Report due
