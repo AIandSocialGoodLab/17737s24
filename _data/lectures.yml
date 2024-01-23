@@ -6,7 +6,7 @@
     - url: 20240116_Lec1_Overview.pdf
       title: "Overview (pdf)"
     - url: 20240116_Lec1_BasicsofOptimization.pdf
-      title: "Basics of Optimization (pdf)"
+      title: "Basics of Optimization"
 - date: 1/18
   topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design"
   slides:
@@ -19,9 +19,12 @@
   - url: https://www.cs.cornell.edu/~yexiang/publications/aaai13_robust_network_design.pdf
     title: "Robust Network Design for Multispecies Conservation"
   - url: 20240118_Lec2_BasicsofILP.pdf
-    title: "Basics of (Integer) Linear Programming (pdf)"
+    title: "Basics of (Integer) Linear Programming"
 - date: 1/23
   topic: "Basics of (Integer) Linear Programming<br/>Case Study: AI for Wildlife Corridor Design (cont.)"
+  slides:
+    - url: 20240123_Lec3_CorridorDesign.pdf
+      title: "Case Study:AI forWildlife Corridor Design"
   note: Confirm group members<br/>HW0 due (<strong>1/23 10:00pm</strong>)
 - date: 1/25
   topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue"
