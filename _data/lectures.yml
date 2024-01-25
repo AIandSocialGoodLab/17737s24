@@ -35,6 +35,8 @@
         title: "Improving Efficiency of Volunteer-Based Food Rescue Operations"
       - url: https://canvas.cmu.edu/courses/33817/files/9090139?wrap=1
         title: "A Recommender System for Crowdsourcing Food Rescue Platforms"
+      - url: 202401125_Lec4_BasicsofML.pdf
+        title: "Basics of Machine Learning"
   note: PRA1 due
 - date: 1/30
   topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue (cont.)"
