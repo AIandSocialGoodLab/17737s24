@@ -41,6 +41,9 @@
 - date: 1/30
   topic: "Basics of Machine Learning<br/>Case Study: AI for Food Rescue (cont.)"
   note: Project proposal due
+  slides:
+    - url: 20240130_Lec5_FoodRescue.pdf
+      title: "AI for Food Rescue"
 - date: 2/1
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
   note: HW1 due
