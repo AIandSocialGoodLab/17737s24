@@ -112,12 +112,7 @@
       title: "Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network"
   note: PRA4 due
 - date:	3/19
-  topic: Common Challenges in AI for Social Good Projects, Discussion Session
-  slides:
-    - url: https://arxiv.org/ftp/arxiv/papers/2001/2001.00088.pdf
-      title: "AI for Social Impact: Learning and Planning in the Data-to-Deployment Pipeline"
-    - url: https://ai4sibook.org/
-      title: "AI for Social Impact Book"
+  topic: "Guest Lecture by Stephanie Milani: Explainable AI"
 - date:	3/21
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security"
   slides:
@@ -132,7 +127,7 @@
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security (cont.)"
   note: Project Progress Report II due
 - date:	3/28
-  topic: "Guest Lecture by Stephanie Milani: Explainable AI"
+  topic: "Guest Lecture by Thanh H. Nguyen"
   note: PRA5 due
 - date:	4/2
   topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime"
