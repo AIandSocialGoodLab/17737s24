@@ -46,7 +46,7 @@
       title: "AI for Food Rescue"
 - date: 2/1
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
-  note: HW1 due
+  note: HW1 due; Project proposal peer review due
 - date: 2/6
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data (cont.)"
 - date: 2/8
@@ -132,7 +132,7 @@
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security (cont.)"
   note: Project Progress Report II due
 - date:	3/28
-  topic: "Guest Lecture by Sephanie Milani: Explainable AI"
+  topic: "Guest Lecture by Stephanie Milani: Explainable AI"
   note: PRA5 due
 - date:	4/2
   topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime"
@@ -189,3 +189,5 @@
   topic: Project Presentation (cont.)
 - date: 5/2
   note: Project Report due
+- date: 5/4
+  note: Project Report peer review due
