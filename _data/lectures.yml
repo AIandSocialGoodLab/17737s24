@@ -47,6 +47,9 @@
 - date: 2/1
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data"
   note: HW1 due; Project proposal peer review due
+  slides:
+    - url: "20240201_Lec6_BasicsofComputerVision.pdf"
+      title: "Basics of Computer Vision"
 - date: 2/6
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data (cont.)"
 - date: 2/8
