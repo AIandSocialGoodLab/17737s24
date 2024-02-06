@@ -52,6 +52,9 @@
       title: "Basics of Computer Vision"
 - date: 2/6
   topic: "Basics of Computer Vision<br/>Case Study: Estimate Poverty and Crop Yield from Remote Sensing Data (cont.)"
+  slides:
+    - url: "20240206_Lec7_CropYield.pdf"
+      title: "Case Study: Estimate Crop Yield from Remote Sensing Data"
 - date: 2/8
   topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation"
   slides:
