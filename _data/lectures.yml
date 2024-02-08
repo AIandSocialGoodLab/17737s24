@@ -64,6 +64,8 @@
       title: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
     - url: https://ryanzshi.github.io/papers/2023_IAAI_NewsPanda.pdf
       title: "NewsPanda: Media Monitoring for Timely Conservation Action"
+    - url: "20240208_Lec8_BasicsofNLP.pdf"
+      title: "Basics of Natural Language Processing"
   note: PRA2 due
 - date: 2/13
   topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation (cont.)"
