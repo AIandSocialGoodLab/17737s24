@@ -69,9 +69,12 @@
   note: PRA2 due
 - date: 2/13
   topic: "Basics of Natural Language Processing<br/>Case Study: AI for Media Monitoring for Wildlife Conservation (cont.)"
+  slides:
+    - url: 20240213_Lec9_NewsPanda.pdf
+      title: "Case Study: NewsPanda:AI for Conservation-Related Media Monitoring"
 - date:	2/15
   topic: "Guest Lecture by Hong Shen: Ethics of AI"
-  note: HW2 due
+  note: HW2 due (due date extended to 2/18 10:00pm)
 - date:	2/20
   topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health"
   slides:
