@@ -73,10 +73,8 @@
     - url: 20240213_Lec9_NewsPanda.pdf
       title: "Case Study: NewsPanda:AI for Conservation-Related Media Monitoring"
 - date:	2/15
-  topic: "Guest Lecture by Hong Shen: Ethics of AI"
-  note: HW2 due (due date extended to <strong>2/18 10:00pm</strong>)
-- date:	2/20
   topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health"
+  note: HW2 due (due date extended to <strong>2/18 10:00pm</strong>)
   slides:
     - url: http://people.csail.mit.edu/lpk/papers/aij98-pomdp.pdf
       title: Planning and acting in partially observable stochastic domains
@@ -86,6 +84,8 @@
       title: Bandit-Based Monte-Carlo Planning
     - url: https://ai4sibook.org/field-study-in-deploying-restless-multi-armed-banditsassisting-non-profits-in-improving-maternal-child-healthaditya-mate-and-apart-taneja/
       title: "Field Study in Deploying Restless Multi-Armed Bandits: Assisting Non-Profits in Improving Maternal & Child Health"
+- date:	2/20
+  topic: "Guest Lecture by Hong Shen: Ethics of AI"
 - date:	2/22
   topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health (cont.)"
   note: PRA3 due
