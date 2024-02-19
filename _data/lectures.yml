@@ -88,6 +88,9 @@
       title: "Basics of Multi-Armed Bandit"
 - date:	2/20
   topic: "Guest Lecture by Hong Shen: Ethics of AI"
+  slides:
+    - url: https://docs.google.com/presentation/d/1T-qIWlXUlHZTUs0-_1aeMKGjUVma7L3HZLrnTgLGnUw/edit?usp=sharing
+      title: "Guest Lecture by Prof. Hong Shen"
 - date:	2/22
   topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health (cont.)"
   note: PRA3 due
