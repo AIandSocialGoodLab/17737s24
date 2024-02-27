@@ -100,6 +100,9 @@
 - date:	2/27
   topic: "Guest Lecture by Zhiyu Chen: Natural Language Processing for Mental Health"
   note: Project Progress Report I due
+  slides:
+    - url: https://docs.google.com/presentation/d/1bQlHgqbhF1lw0JgV5qoQEzwR64S4DtbmTcZ8LjDuDSI/edit?usp=sharing
+      title: "Guest Lecture by Zhiyu Chen: Large Language Model for Mental Health"
 - date:	2/29
   topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning"
   slides:
