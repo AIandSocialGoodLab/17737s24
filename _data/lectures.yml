@@ -99,7 +99,7 @@
       title: "Case Study: Assist Non-Profits in Improving Maternal and Child Health"
 - date:	2/27
   topic: "Guest Lecture by Zhiyu Chen: Natural Language Processing for Mental Health"
-  note: Project Progress Report I due
+  note: Project Progress Report I due (changed to <strong>2/29 10:00pm</strong>)
   slides:
     - url: https://docs.google.com/presentation/d/1bQlHgqbhF1lw0JgV5qoQEzwR64S4DtbmTcZ8LjDuDSI/edit?usp=sharing
       title: "Guest Lecture by Zhiyu Chen: Large Language Model for Mental Health"
@@ -112,6 +112,8 @@
       title: "Dynamic Bike Reposition: A Spatio-Temporal Reinforcement Learning Approach"
     - url: https://arxiv.org/abs/1910.02591
       title: "Multi-Agent Reinforcement Learning for Order-dispatching via Order-Vehicle Distribution Matching"
+    - url: 20240229_Lec12_BasicsofRL.pdf
+      title: "Basics of Reinforcement Learning"
   note: HW3 due
 - date:	3/12
   topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning (cont.)"
