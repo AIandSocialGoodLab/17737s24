@@ -48,6 +48,35 @@ The final course grade will be calculated using the following categories:
 * **Online homework.** The course will require all students to complete several online homework assignments individually. Each assignment will involve checking the understanding of basic concepts and working through the algorithms presented in class on example problems. Most questions are multiple-choice questions or numerical answer questions but the students need to submit explanations separately.
 * **Course project.**
   * **17-537**
+    * Students work individually on a Kaggle competition (details later) or a project creating a public-facing blog introducing and explaining a paper or a series of papers on AI for Social Good (that is not fully covered in class).
+  * **Kaggle Competition**
+    * Students will participate in *one* of the following Kaggle competitions (*or a different one with the approval of the instructor*), which involve real-world data and require practical application of ML techniques.
+    * Competitions
+      * [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
+      * [Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand/overview)
+    * Students are expected to analyze the problem and dataset provided in their chosen competition and propose appropriate ML techniques and strategies to solve the problem. Students can discuss multiple approaches and explain the rationale behind selecting a specific method.
+    * The grading scheme is similar to the 12-unit session, except that we have a lower expectation on all criteria (e.g., novelty)
+  * **Blog Post**
+    * The final version of the blog post will be published on the [course website](https://aiandsocialgoodlab.github.io/17737s24/) as a separate webpage
+    * The blog post is aimed to introduce and explain a paper or a series of papers on AI for Social Good
+    * Target audience: The post should be written at a level so that any senior undergraduate student majoring in computer science can have a good understanding of the overall societal challenge, the problem statement, the AI method, how the AI method helps address the societal challenge, the evaluation, and the impact. In addition, a big portion of the post (at least 50%) should be easily understandable by the general public.
+    * Content: The blog post must present a self-contained, cogent, and engaging narrative on this line of research, including a blend of scientific (high-level) and technical exposition.
+    * Figures/gifs/tables/videos that add to the exposition and enhance understanding are needed
+    * Bibliography optional but inline references to attributions made in the text should be given
+    * Submission format: markdown (preferred) or pdf
+    * Example blog posts:
+      1. https://blog.research.google/2020/01/using-machine-learning-to-nowcast.html
+      2. https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html
+      3. https://research.facebook.com/blog/2023/4/every-tree-counts-large-scale-mapping-of-canopy-height-at-the-resolution-of-individual-trees/
+      4. https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/
+      5. https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/
+      6. https://deepmind.google/discover/blog/codoc-developing-reliable-ai-tools-for-healthcare/
+  * **17-737**
+    * Students will work in small groups (1-3 students in each group) on a project exploring the possibility of using AI to help address a social good problem. The students are expected to focus on one or more societal challenges, propose models and AI-based solutions to tackle the challenges and evaluate the solutions.
+  * **Grading Criteria**: Please check slides 55-75 of the [overview slide](https://aiandsocialgoodlab.github.io/17737s24/assets/slides/20240116_Lec1_Overview.pdf) for the corresponding criteria for progress report, presentation, and final report.
+
+<!-- * **Course project.**
+  * **17-537**
     * Students will have the flexibility to choose between two options for the course project:
       * **Kaggle Competition**
         * Students will participate in *one* of the following Kaggle competitions (*or a different one with the approval of the instructor*), which involve real-world data and require practical application of ML techniques.
@@ -92,7 +121,7 @@ The final course grade will be calculated using the following categories:
         * [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
         * [Evaluating social and ethical risks from generative AI](https://deepmind.google/discover/blog/evaluating-social-and-ethical-risks-from-generative-ai/)
         * [Developing reliable AI tools for healthcare](https://deepmind.google/discover/blog/codoc-developing-reliable-ai-tools-for-healthcare/)
-      * Note: criteria are subject to change, and are inspired by the CSD blog post committee criteria.
+      * Note: criteria are subject to change, and are inspired by the CSD blog post committee criteria. -->
 
 
 * **Grades.** Students will be assigned final letter grades according to the following table.
