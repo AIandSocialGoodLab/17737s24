@@ -73,7 +73,7 @@ The final course grade will be calculated using the following categories:
       6. https://deepmind.google/discover/blog/codoc-developing-reliable-ai-tools-for-healthcare/
   * **17-737**
     * Students will work in small groups (1-3 students in each group) on a project exploring the possibility of using AI to help address a social good problem. The students are expected to focus on one or more societal challenges, propose models and AI-based solutions to tackle the challenges and evaluate the solutions.
-  * **Grading Criteria**: Please check slides 55-75 of the [overview slide](https://aiandsocialgoodlab.github.io/17737s24/assets/slides/20240116_Lec1_Overview.pdf) for the corresponding criteria for progress report, presentation, and final report.
+  * **Grading Criteria**: Please check slides 55-75 of the [overview slide](https://aiandsocialgoodlab.github.io/17737s24/assets/slides/20240116_Lec1_Overview.pdf), or Canvas assignment description for the corresponding criteria for progress report, presentation, and final report.
 
 <!-- * **Course project.**
   * **17-537**
