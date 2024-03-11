@@ -95,7 +95,7 @@
   topic: "Basics of Multi-Armed Bandit<br/>Case Study: AI for Maternal and Child Health (cont.)"
   note: PRA3 due
   slides:
-    - url: 20240222_Lec11_MaternalHealth.pdf
+    - url: 20240222_Lec12_MaternalHealth.pdf
       title: "Case Study: Assist Non-Profits in Improving Maternal and Child Health"
 - date:	2/27
   topic: "Guest Lecture by Zhiyu Chen: Natural Language Processing for Mental Health"
@@ -112,11 +112,14 @@
       title: "Dynamic Bike Reposition: A Spatio-Temporal Reinforcement Learning Approach"
     - url: https://arxiv.org/abs/1910.02591
       title: "Multi-Agent Reinforcement Learning for Order-dispatching via Order-Vehicle Distribution Matching"
-    - url: 20240229_Lec12_BasicsofRL.pdf
+    - url: 20240229_Lec14_BasicsofRL.pdf
       title: "Basics of Reinforcement Learning"
   note: HW3 due
 - date:	3/12
   topic: "Basics of Reinforcement Learning<br/>Case Study: AI for Bike Repositioning (cont.)"
+  slides:
+    - url: 20240312_Lec15_BikeRepositioning.pdf
+      title: "Case Study: RL for Bike Repositioning"
 - date:	3/14
   topic: "Case Study: AI for HIV Prevention Among Homeless Youth"
   slides:
