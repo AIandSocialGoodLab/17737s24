@@ -137,6 +137,8 @@
       title: "Influence Maximization in the Field: The Arduous Journey From Emerging to Deployed Application"
     - url: https://bryanwilder.github.io/files/wilder_aamas2017.pdf
       title: "Uncharted but not Uninfluenced: Influence Maximization with an Uncertain Network"
+    - url: 20240314_Lec16_InfluenceMax.pdf
+      title: "Influence Maximization and Case Study on HIV Prevention Among Homeless Youth"
   note: PRA4 due
 - date:	3/19
   topic: "Guest Lecture by Stephanie Milani: Explainable AI"
