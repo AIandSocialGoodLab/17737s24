@@ -142,6 +142,9 @@
   note: PRA4 due
 - date:	3/19
   topic: "Guest Lecture by Stephanie Milani: Explainable AI"
+  slides:
+    - url: https://andrewcmu-my.sharepoint.com/:p:/g/personal/smilani_andrew_cmu_edu/EfpPqCxcSX1BnI_5Dkuym64BQOy0IQ-toxa17mTb859B9g?e=19avqX
+      title: "Explainable AI for Social Good"
 - date:	3/21
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security"
   slides:
