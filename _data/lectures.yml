@@ -144,7 +144,7 @@
   topic: "Guest Lecture by Stephanie Milani: Explainable AI"
   slides:
     - url: https://andrewcmu-my.sharepoint.com/:p:/g/personal/smilani_andrew_cmu_edu/EfpPqCxcSX1BnI_5Dkuym64BQOy0IQ-toxa17mTb859B9g?e=19avqX
-      title: "Explainable AI for Social Good"
+      title: "Slides: Explainable AI for Social Good"
 - date:	3/21
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security"
   slides:
@@ -154,6 +154,8 @@
       title: "Deployed ARMOR Protection: The Application of a Game Theoretic Model for Security at the Los Angeles International Airport"
     - url: http://www.ifaamas.org/Proceedings/aamas2013/docs/p957.pdf
       title: "Optimal Patrol Strategy for Protecting Moving Targets with Multiple Mobile Resources"
+    - url: 20240321_Lec18_BasicsofGameTheory.pdf
+      title: "Basics of Game Theory"
   note: HW4 due
 - date:	3/26
   topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security (cont.)"
