@@ -186,9 +186,9 @@
       title: "“A Game of Thrones”: When Human Behavior Models Compete in Repeated Stackelberg Security Games"
     - url: https://www.aaai.org/ocs/index.php/IAAI/IAAI14/paper/viewFile/8612/8667
       title: "Robust protection of fisheries with COmPASS"
-  note: HW5 due
 - date:	4/4
   topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime (cont.)"
+  note: HW5 due
 - date:	4/9
   topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
 - date: 4/16
@@ -211,10 +211,10 @@
       same_line: true
     - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016PlusExtraMaterial.pdf
       title: "[Extended version]"
-  note: HW6 due
 - date:	4/23
   topic: Project Presentation
 - date: 4/25
   topic: Project Presentation (cont.)
+  note: HW6 due
 - date: 5/2
   note: Project Report due
