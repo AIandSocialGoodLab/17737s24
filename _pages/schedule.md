@@ -17,7 +17,7 @@ nav_order: 1
   </thead>
   <tbody>
     <p style="color: red;">All deadlines are <strong style="color: red;">10:00 pm ET</strong> on the <strong style="color: red;">day indicated in the same row, unless otherwise specified</strong>.</p>
-    Last updated: Mar 26, 2024<br>
+    Last updated: Mar 28, 2024<br>
     Note: HW2 due date extended to <strong>Feb 18, 2024</strong><br>
     Note: Project Progress Report I due date extended to <strong>Feb 29, 2024</strong><br>
     Note: HW5, PRA6, and HW6 due dates has changed to a later date to allow for more time to work on those assignments.<br>
