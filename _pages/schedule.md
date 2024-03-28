@@ -20,7 +20,7 @@ nav_order: 1
     Last updated: Mar 28, 2024<br>
     Note: HW2 due date extended to <strong>Feb 18, 2024</strong><br>
     Note: Project Progress Report I due date extended to <strong>Feb 29, 2024</strong><br>
-    Note: HW5, PRA6, and HW6 due dates has changed to a later date to allow for more time to work on those assignments.<br>
+    Note: Due dates for <strong>HW5, PRA6, and HW6</strong> have been changed to a later date to allow more time to work on those assignments.<br>
     {% for lecture in site.data.lectures %}
       <tr>
         <th scope="row">{{ forloop.index }}</th>
