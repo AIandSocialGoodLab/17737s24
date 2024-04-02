@@ -164,7 +164,7 @@
   topic: "Guest Lecture by Thanh H. Nguyen: Application of RL in diabetes prevention and application of game theory"
   note: PRA5 due
 - date:	4/2
-  topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime"
+  topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Infrastructure Security"
   slides:
     - url: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
       title: "Pattern Recognition and Machine Learning, Ch. 8, 9"
@@ -186,8 +186,10 @@
       title: "“A Game of Thrones”: When Human Behavior Models Compete in Repeated Stackelberg Security Games"
     - url: https://www.aaai.org/ocs/index.php/IAAI/IAAI14/paper/viewFile/8612/8667
       title: "Robust protection of fisheries with COmPASS"
+    - url: 20240402_Lec21_SecurityGame.pdf
+      title: "Case Study: AI for Infrastructure Security"
 - date:	4/4
-  topic: "Basics of Human Behavior Modeling<br/>Case Study: AI for Reducing Urban Crime (cont.)"
+  topic: "Basics of Game Theory<br/>Case Study: AI for Infrastructure Security (cont.)"
   note: HW5 due
 - date:	4/9
   topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
