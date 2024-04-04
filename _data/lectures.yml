@@ -191,6 +191,9 @@
 - date:	4/4
   topic: "Basics of Human Behavior Modeling"
   note: HW5 due
+  slides:
+    - url: 20240404_Lec22_HumanBehavior.pdf
+      title: "Basics of Human Behavior Modeling"
 - date:	4/9
   topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
 - date: 4/16
