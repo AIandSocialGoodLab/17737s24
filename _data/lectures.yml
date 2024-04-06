@@ -195,11 +195,6 @@
     - url: 20240404_Lec22_HumanBehavior.pdf
       title: "Basics of Human Behavior Modeling"
 - date:	4/9
-  topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
-- date: 4/16
-  topic: Common Challenges in AI for Social Good Projects, Discussion Session
-  note: PRA6 due
-- date:	4/18
   topic: "Case Study: AI for Kidney Exchange"
   slides:
     - url: https://dl.acm.org/doi/pdf/10.1145/1250910.1250954
@@ -216,6 +211,11 @@
       same_line: true
     - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016PlusExtraMaterial.pdf
       title: "[Extended version]"
+- date: 4/16
+  topic: Common Challenges in AI for Social Good Projects, Discussion Session
+  note: PRA6 due
+- date:	4/18
+  topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
 - date:	4/23
   topic: Guest Lecture by Hoda Heidari & Project Presentation (2 teams)
 - date: 4/25
