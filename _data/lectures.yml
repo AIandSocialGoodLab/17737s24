@@ -211,6 +211,8 @@
       same_line: true
     - url: http://www.cs.cmu.edu/~sandholm/hierarchy.ec2016PlusExtraMaterial.pdf
       title: "[Extended version]"
+    - url: 20240409_Lec23_KidneyExchange.pdf
+      title: "Case Study: Optimizing Kidney Exchange"
 - date: 4/16
   topic: Common Challenges in AI for Social Good Projects, Discussion Session
   note: PRA6 due
