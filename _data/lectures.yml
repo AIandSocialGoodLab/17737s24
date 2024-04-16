@@ -215,6 +215,9 @@
       title: "Case Study: Optimizing Kidney Exchange"
 - date: 4/16
   topic: Common Challenges in AI for Social Good Projects, Discussion Session
+  slides:
+    - url: 20240415_Lec24_CommonChallengesDiscussion.pdf
+      title: "Common Challenges in AI for Social Good Projects"
   note: PRA6 due
 - date:	4/18
   topic: "Guest Lecture by Ananya Joshi: AI and Pandemic Intervention"
